@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71d50405.chunk.css",
+    "main.js": "/static/js/main.adabce68.chunk.js",
+    "main.js.map": "/static/js/main.adabce68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b32cd5ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b32cd5ea.js.map",
+    "static/js/2.d8b49a56.chunk.js": "/static/js/2.d8b49a56.chunk.js",
+    "static/js/2.d8b49a56.chunk.js.map": "/static/js/2.d8b49a56.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.daa29c11d624ab06fe866b7f20bc874b.js": "/precache-manifest.daa29c11d624ab06fe866b7f20bc874b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.71d50405.chunk.css.map": "/static/css/main.71d50405.chunk.css.map",
+    "static/js/2.d8b49a56.chunk.js.LICENSE.txt": "/static/js/2.d8b49a56.chunk.js.LICENSE.txt",
+    "static/media/ic-arrow-drop-down.svg": "/static/media/ic-arrow-drop-down.9a2be381.svg",
+    "static/media/ic-devices.svg": "/static/media/ic-devices.ba979780.svg",
+    "static/media/ic-doc.svg": "/static/media/ic-doc.4e658b8f.svg",
+    "static/media/profile-lg.jpg": "/static/media/profile-lg.eb5fc1bb.jpg",
+    "static/media/profile.png": "/static/media/profile.26673714.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b32cd5ea.js",
+    "static/js/2.d8b49a56.chunk.js",
+    "static/css/main.71d50405.chunk.css",
+    "static/js/main.adabce68.chunk.js"
+  ]
+}
